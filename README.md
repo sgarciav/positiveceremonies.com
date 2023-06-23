@@ -12,13 +12,29 @@ the
 [Jekyll Installation Documentation](https://jekyllrb.com/docs/installation/),
 execute the following to install the gems in the Gemfile:
 
-    $ cd /path/to/positiveceremonies.com
-    $ bundle install
+    cd /path/to/positiveceremonies.com
+    bundle install
 
-## How to use
- - Place a image in `/img/portfolio/`
- - Replace `your-email@domain.com` in `_config.yml` with your email address. Refer to [formspree](http://formspree.io/) for more information.
+**Note**: You can always execute the following to update the gems in your
+system:
+
+    sudo apt install jekyll bundler
+    gem update --system
+
+# Usage
+
+Execute the following to start hosting the website locally:
+
+    cd /path/to/positiveceremonies.com
+    bundle exec jekyll serve
+
+## Interact with the Theme
+
+ - Place images in `/img/portfolio/`
+ - Replace `your-email@domain.com` in `_config.yml` with your email
+   address. Refer to [formspree](http://formspree.io/) for more information.
  - Create posts to display your projects. Use the follow as an example:
+
 ```txt
 ---
 layout: default
