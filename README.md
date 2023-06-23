@@ -1,7 +1,19 @@
-Freelancer Jekyll theme  [![Build Status](https://api.travis-ci.org/jeromelachaud/freelancer-theme.svg?branch=master)](https://travis-ci.org/jeromelachaud/freelancer-theme/) 
-=========================
+# About
 
-Jekyll theme based on [Freelancer bootstrap theme ](http://startbootstrap.com/template-overviews/freelancer/)
+This is website for my business **Positive Ceremonies by Sergio**, bringing joy
+to your forever after . I use [Jekyll](https://jekyllrb.com/) and
+the [Freelancer](https://jekyllthemes.io/theme/freelancer-theme) theme. This
+repo is meant to keep track of the changes I've made to the orignal theme.
+
+# Dependencies
+
+After following
+the
+[Jekyll Installation Documentation](https://jekyllrb.com/docs/installation/),
+execute the following to install the gems in the Gemfile:
+
+    $ cd /path/to/positiveceremonies.com
+    $ bundle install
 
 ## How to use
  - Place a image in `/img/portfolio/`
@@ -22,11 +34,14 @@ description: The description of the project
 ---
 ```
 
-## Demo
-View this jekyll theme in action [here](https://jeromelachaud.com/freelancer-theme)
+# Misc
 
-## Screenshot
-![screenshot](https://raw.githubusercontent.com/jeromelachaud/freelancer-theme/master/screenshot.png)
+## License
 
----------
-For more details, read the [documentation](http://jekyllrb.com/)
+MIT License
+
+## Credits
+
+Credits go to the freelancer-theme project
+([GitHub link](https://github.com/jeromelachaud/freelancer-theme)) from which
+this repo was forked.
