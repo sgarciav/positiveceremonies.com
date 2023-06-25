@@ -7,5 +7,7 @@ alt: Image of a marriage certificate.
 project-date: March 2022
 client: Laura Sutton and Amber Byess
 category: Marriage Certificate Signing
-description: I had the privilege of signing the marriage certificate of close friends.
+description: [txt]
 ---
+
+[txt]: I had the privilege of signing the marriage certificate of close friends.
