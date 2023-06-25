@@ -52,8 +52,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 2799 White Oak Ln
-  - line: Decatur, GA 30032
+  - line: Ordained in the state of GA.
+  # - line: state of GA only.
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
